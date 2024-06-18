@@ -1,1 +1,1 @@
-# Hand-gesture-controlled-car-bluetooth
+# Hand-gesture-controlled-wheelchair-bluetooth
